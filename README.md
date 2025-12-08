@@ -21,7 +21,7 @@
   ">
     <span style="font-size: 16px; color:#ff5f56;">●</span>
     <span style="font-size: 16px; color:#ffbd2e; margin-left:4px;">●</span>
-    <span style="font-size: 16px; color:#27c93f; margin-left:4px;">●ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</span>
+    <span style="font-size: 16px; color:#27c93f; margin-left:4px;">●ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</span>
   </td>
 
   <!-- RIGHT CLOSE BUTTON -->

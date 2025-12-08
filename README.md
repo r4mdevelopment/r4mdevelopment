@@ -1,8 +1,3 @@
-
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=200&pause=100&color=00FF7F&multiline=true&repeat=false&random=true&width=950&lines=o+O+o+o+o+O+o+o+O+O+o+o+o+o+O+o+o+o+O+o+o+o+O+o+o+o+O+o+o+O+O+o+o+o+o+O+o+o+o+O+o+o+o+o+)](https://git.io/typing-svg)
----
-
 <div align="center">
 
 <table style="
@@ -45,11 +40,6 @@
 </table>
 
 </div>
-<h1></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=200&pause=100&color=00FF7F&multiline=true&repeat=false&random=true&width=950&lines=o+O+o+o+o+O+o+o+O+O+o+o+o+o+O+o+o+o+O+o+o+o+O+o+o+o+O+o+o+O+O+o+o+o+o+O+o+o+o+O+o+o+o+o+)](https://git.io/typing-svg)
-
----
 
 <!-- TECH STACK -->
 <p align="center" style="margin-top:20px;">

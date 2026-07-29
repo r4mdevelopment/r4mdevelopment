@@ -27,7 +27,7 @@
 
 <td colspan="2" style="background:#0d1117; padding:25px; color:#C9D1D9;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=100&color=FFFFFFFF&multiline=true&repeat=false&width=1000&height=500&lines=hism@ubuntu:~$+hi+there!;—+Welcome+to+my+GitHub+profile.;hism@ubuntu:~$+whoami;—+Backend+Developer+|+Software+Engineering+Student+@+SPbPU;hism@ubuntu:~$+skills+--list;—+Python,+FastAPI,+SQLAlchemy,+PostgreSQL;—+Bots+(aiogram,+Discord.py,+VK+API);—+Automation,+Parsers;—+Databases,+API+Design,+Testing+(pytest,+locust);hism@ubuntu:~$+contact+--list;—+Telegram:+@h1smx;—+Email:+vadim-chita@yandex.ru;hism@ubuntu:~$+show+tech-stack;Python,+FastAPI,+SQLAlchemy,+PostgreSQL,+SQLite,+HTML,+CSS,+JavaScript,+Pytest;Locust,+aiogram,+Discord.py,+VK+API,+Java,+C%2B%2B,+C%23;hism@ubuntu:~$+exit;—+Session+closed.+Have+a+great+day!+🔥)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=333333&multiline=true&repeat=false&width=1000&height=500&lines=hism@ubuntu:~$+hi+there!;—+Welcome+to+my+GitHub+profile.;hism@ubuntu:~$+whoami;—+Backend+Developer+|+Software+Engineering+Student+@+SPbPU;hism@ubuntu:~$+skills+--list;—+Python,+FastAPI,+SQLAlchemy,+PostgreSQL;—+Bots+(aiogram,+Discord.py,+VK+API);—+Automation,+Parsers;—+Databases,+API+Design,+Testing+(pytest,+locust);hism@ubuntu:~$+contact+--list;—+Telegram:+@h1smx;—+Email:+vadim-chita@yandex.ru;hism@ubuntu:~$+show+tech-stack;Python,+FastAPI,+SQLAlchemy,+PostgreSQL,+SQLite,+HTML,+CSS,+JavaScript,+Pytest;Locust,+aiogram,+Discord.py,+VK+API,+Java,+C%2B%2B,+C%23;hism@ubuntu:~$+exit;—+Session+closed.+Have+a+great+day!+🔥)
 
 </td></tr>
 </table>
